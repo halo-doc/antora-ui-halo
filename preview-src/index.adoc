@@ -1,4 +1,4 @@
-= Hardware and Software Requirements
+=  Halo Framework
 Author Name
 :idprefix:
 :idseparator: -
