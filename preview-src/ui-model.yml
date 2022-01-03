@@ -5,7 +5,7 @@ site:
   homeUrl: /index.html
   components:
   - name: security
-    title: &component_title Spring Security
+    title: &component_title Spring Security2
     url: '#'
     versions: &security_versions
     - &security_latest_version
@@ -33,11 +33,11 @@ shared:
   security:
     5.5:
       home: true
-      title: Spring Security
+      title: Spring Security2
       relativeSrcPath: index.adoc
       editUrl: http://example.com/project-xyz/blob/master/index.adoc
       component:
-        title: Spring Security
+        title: Spring Security2
         url: '#'
         versions:
           - url: '/index.html'
@@ -69,11 +69,11 @@ shared:
                   url: '#'
     5.6:
       home: true
-      title: Spring Security
+      title: Spring Security2
       relativeSrcPath: index.adoc
       editUrl: http://example.com/project-xyz/blob/master/index.adoc
       component:
-        title: &component_title Spring Security
+        title: &component_title Spring Security2
         url: '#'
         versions: *security_versions
       componentVersion: *security_latest_version

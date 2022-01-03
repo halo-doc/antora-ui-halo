@@ -9,15 +9,15 @@ html.dark-theme {
   --color-accent-1: #272c33;
   --color-accent-1-invert: #d8d3cc;
   --color-accent-2: #2d333a;
-  --color-accent-3: #6db33f;
+  --color-accent-3: #ff6a00;
   --body-font-color: #FFF;
   --asciidoctor-heading-font-color: #fff;
   --body-font-light-color: #abacaf;
   --body-font-dark-color: #cecfd1;
-  --link-font-color: #086dc3;
+  --link-font-color: #ff6a00;
   --hover-link-font-color: #107ddd;
   --scrollbar-thumb-color: #5f5f5f;
-  --mark-background-color: #2eca12;
+  --mark-background-color: #ff6a00;
   --selected-background-color: #FFF;
   --doc-font-color: #fff;
 
@@ -48,7 +48,7 @@ html.dark-theme {
   --highlight-tag-font-color: #7bcc72;
   --highlight-tag-attribute-font-color: #b392f0;
   --highlight-type-font-color: #b392f0;
-  --highlight-link-font-color: #1565c0;
+  --highlight-link-font-color: #ff6a00;
   --highlight-addition-font-color: #7bcc72;
   --highlight-deletion-font-color: #f6f8fa;
   --highlight-regex-font-color: #79b8ff;
